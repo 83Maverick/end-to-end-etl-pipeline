@@ -1,0 +1,2 @@
+customer_id,customer_name,email,city,rejection_reason
+105,,missing@example.com,Chennai,Missing customer_name; 

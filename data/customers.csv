@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city
+101,Amit Sharma,amit@example.com,Mumbai
+102,Priya Singh,priya@example.com,Pune
+103,Rahul Verma,rahul@example.com,Delhi
+104,Neha Patel,neha@example.com,Bengaluru
+105,,missing@example.com,Chennai
